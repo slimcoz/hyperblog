@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+hola mi loco
+
+=======
+hola mi loco
+
+>>>>>>> d89c8b6c2a627ec45dbe579f4ece9f8d76d9aa92
+COMO ESTAS  PAPA 
